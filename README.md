@@ -20,7 +20,6 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
----
 ## 📱 Termux (Android)
 ```
 pkg update && pkg upgrade -y
