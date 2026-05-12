@@ -49,29 +49,6 @@ System dependencies (handled automatically by `install.sh`):
 - ffmpeg
 - imagemagick
 - yarn / npm
-
----
-## 🚀 Installation
-### 1️⃣ Clone Repository
-```
-git clone https://github.com/shopeebjm/botwa
-```
-```
-cd botwa
-```
----
-### 2️⃣ Automatic Installation (Recommended)
-
-```
-bash install.sh
-```
-
-This script will:
-- Detect your package manager (`pkg`, `apt`, `dnf`, etc.)
-- Install required system dependencies
-- Install Node.js packages
-- Start the bot automatically
-
 ---
 ## 📱 Termux (Android)
 ```
@@ -98,15 +75,15 @@ cd botwa
 ```
 npm install
 ```
-[ RECOMMENDED INSTALL ON TERMUX ]
+```
+bash install.sh
+```
 ```
 pkg install yarn
 ```
 ```
 yarn
 ```
-Use **yarn**:
-
 ```
 yarn install
 ```
