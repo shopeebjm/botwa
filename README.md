@@ -30,14 +30,16 @@ System dependencies (handled automatically by `install.sh`):
 ---
 ## 🚀 Installation
 ### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/nazedev/hitori
-cd hitori
+```
+git clone https://github.com/shopeebjm/botwa
+```
+```
+cd botwa
 ```
 ---
 ### 2️⃣ Automatic Installation (Recommended)
 
-```bash
+```
 bash install.sh
 ```
 
@@ -49,25 +51,43 @@ This script will:
 
 ---
 ## 📱 Termux (Android)
-```bash
+```
 pkg update && pkg upgrade
+```
+```
 pkg install git
+```
+```
 pkg install nodejs
+```
+```
 pkg install ffmpeg
+```
+```
 pkg install imagemagick
-git clone https://github.com/nazedev/hitori
-cd hitori
+```
+```
+git clone https://github.com/shopeebjm/botwa.git
+```
+```
+cd botwa
+```
+```
 npm install
 ```
 [ RECOMMENDED INSTALL ON TERMUX ]
-```bash
+```
 pkg install yarn
+```
+```
 yarn
 ```
 Use **yarn**:
 
-```bash
+```
 yarn install
+```
+```
 yarn start
 ```
 
